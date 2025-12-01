@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lexierex101
 - 👀 I’m interested in gaming, anime, true crime podcasts
 - 🌱 I’m currently learning C++, Java, Python
-- 📫 How to reach me: IG @messie_lexie
+- 📫 How to reach me: alexandria.cabading@gmail.com
 - 😄 Pronouns: she/her
 
 
