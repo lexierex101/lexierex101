@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lexierex101
-- 👀 I’m interested in gaming, anime, true crime podcasts
-- 🌱 I’m currently learning C++, Java, Python
+- 👀 I’m interested in gaming, true crime podcasts, and comics
+- 🌱 I’m proficient in C#, JavaScript, CSS, C++, Java, Python
 - 📫 How to reach me: alexandria.cabading@gmail.com
 - 😄 Pronouns: she/her
 
